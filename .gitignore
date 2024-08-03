@@ -2,10 +2,11 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+data/
 # C extensions
 *.so
-
+wandb/
+last_run_prepared/
 # Distribution / packaging
 .Python
 build/
